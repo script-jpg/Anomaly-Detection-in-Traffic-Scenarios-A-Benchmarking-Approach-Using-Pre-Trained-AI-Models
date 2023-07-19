@@ -1,0 +1,2 @@
+# Anomaly-Detection-in-Traffic-Scenarios-A-Benchmarking-Approach-Using-Pre-Trained-AI-Models
+This paper introduces a novel approach to traffic accident detection in the context of autonomous vehicles. By leveraging pre-trained AI models as benchmarks for optimal driving behavior, the proposed methodology compares real-world driving behaviors with AI-generated behaviors to identify potential accidents.
